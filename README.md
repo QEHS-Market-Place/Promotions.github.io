@@ -7,6 +7,7 @@ Website Design Notes
 Website Build Checklist
 - [ ] Boilerplate for index.html
 - [ ] Image Gallery Child Page
+- [ ] QE Knight Head in to TAB Icon location
 - [ ] TBA
 
 ---

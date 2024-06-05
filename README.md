@@ -1,6 +1,25 @@
 # Promotions
 Links to Student Projects being Showcased
 
+---
+
+# Instrictions for Repositories and Donwloading
+
+### Student Download
+- [ ] Download ZIP
+- [ ] Read Instructions
+- [ ] Run .exe / Press More Information \ Run Anyway
+
+### TEACHER
+- [ ] Create Repository
+- [ ] Upload Source Code
+- [ ] Export WINDOWS & Java .exe
+- [ ] ZIP Package
+- [ ] Upload Package as v1 to Releases
+- [ ] Copy Releases URL to Google Classroom Post
+
+---
+
 Website Design Notes
 - 2024 Background is Flowers, see Poster image
 

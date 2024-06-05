@@ -3,7 +3,7 @@ Links to Student Projects being Showcased
 
 ---
 
-# Instrictions for Repositories and Donwloading
+# Instrictions for Repositories and Donwloading from Google Classroom and GitHub Releases
 
 ### Student Download
 - [ ] Download ZIP
@@ -17,6 +17,11 @@ Links to Student Projects being Showcased
 - [ ] ZIP Package
 - [ ] Upload Package as v1 to Releases
 - [ ] Copy Releases URL to Google Classroom Post
+
+### Promotional Information
+- [ ] See Google Classroom for Promotional Videos
+- [ ] Title: Summer Market Place, Game Con 2024
+- [ ] Description: " Are you a Gamer? Do you want to be? See Mr. Mercer about Game Con 2024 details. Or ... Better Yet ... Play the games students presented at the Marketplace. Immerse yourself in Queene Awesome. You can even check out the source code. Join the Google Classroom using the code "xlscqya". "
 
 ---
 

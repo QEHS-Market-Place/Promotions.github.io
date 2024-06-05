@@ -8,7 +8,7 @@ Links to Student Projects being Showcased
 ### Student Download
 - [ ] Download ZIP
 - [ ] Read Instructions
-- [ ] Run .exe / Press More Information \ Run Anyway
+- [ ] Run .exe / Press More Information / Run Anyway
 
 ### TEACHER
 - [ ] Create Repository
